@@ -8,6 +8,8 @@ editLink: true
 lastUpdated: true
 ---
 
+![Static Badge](https://img.shields.io/badge/version-alpha-blue)
+
 # About OpenGIX
 
 OpenGIX is a protocol for working with layered geometry and arbitrary use case specific data. **Open** means all work materials are open source and will always be free to use, modify and redistribute. **GIX** is an intialism of **geometrical** **interpolation** and **transformation**—fancy words that suggest usage and function in that geometry can be imbued with artibrary data points, organized into layers and exportable to simple user-friendly graphs.
