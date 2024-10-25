@@ -6,6 +6,9 @@ hero:
   name: "OpenGIX"
   text: "is geospatial information transformation."
   tagline: Organize complex data-imbued geometry into geospacial layers to enable interactivity in maps and graphs.
+  image:
+    src: /assets/images/logo-bg.png
+    alt: OpenGIX
   actions:
     - theme: brand
       text: What is OpenGIX?
