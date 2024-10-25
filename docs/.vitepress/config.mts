@@ -6,7 +6,9 @@ export default defineConfig({
   description:
     "OpenGIX is a protocol for working with layered geometry and data. ",
 
-  head: [["link", { rel: "icon", href: "/favicon.ico" }]],
+  cleanUrls: true,
+
+  head: [["link", { rel: "icon", href: "/docs/favicon.ico" }]],
 
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
