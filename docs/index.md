@@ -12,7 +12,7 @@ hero:
       link: /about
     - theme: alt
       text: Working with OpenGIX ->
-      link: /docs/getting-started
+      link: /getting-started
 # features:
 #   - title: Projects
 #     details: Organized statisics, history and geography power profits and sustainability.

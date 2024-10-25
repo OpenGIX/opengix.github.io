@@ -3,7 +3,7 @@ title: About
 prev: false
 next:
   text: Let's get started ->
-  link: /docs/getting-started
+  link: /getting-started
 editLink: true
 lastUpdated: true
 ---

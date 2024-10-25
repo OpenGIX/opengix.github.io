@@ -8,13 +8,13 @@ export default defineConfig({
 
   cleanUrls: true,
 
-  head: [["link", { rel: "icon", href: "/docs/favicon.ico" }]],
+  head: [["link", { rel: "icon", href: "/favicon.ico" }]],
 
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: "Schema API", link: "https://opengix.org/schema" },
-      { text: "Docs", link: "/docs/getting-started" },
+      { text: "Docs", link: "/getting-started" },
       { text: "About", link: "/about" },
     ],
 
@@ -23,7 +23,7 @@ export default defineConfig({
         text: "Usage",
         items: [
           { text: "Schema API", link: "/schema" },
-          { text: "Getting Started", link: "/docs/getting-started" },
+          { text: "Getting Started", link: "/getting-started" },
         ],
       },
       {
