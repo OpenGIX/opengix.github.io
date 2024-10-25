@@ -29,7 +29,7 @@ export default defineConfig({
       {
         items: [
           { text: "Roadmap", link: "/roadmap" },
-          { text: "Contributing", link: "/api-examples" },
+          { text: "Contributing", link: "/" },
           { text: "Community", link: "/about#community" },
         ],
       },
