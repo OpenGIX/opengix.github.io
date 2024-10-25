@@ -7,7 +7,7 @@ hero:
   text: "is geospatial information transformation."
   tagline: Organize complex data-imbued geometry into geospacial layers to enable interactivity in maps and graphs.
   image:
-    src: /images/logo-bg.png
+    src: /logo-bg.png
     alt: OpenGIX
   actions:
     - theme: brand
