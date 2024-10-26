@@ -10,7 +10,7 @@ lastUpdated: true
 
 # About OpenGIX
 
-OpenGIX is a protocol for working with layered geometry and arbitrary use case specific data. **Open** means all work materials are open source and will always be free to use, modify and redistribute. **GIX** is an intialism of **geometrical** **interpolation** and **transformation**—fancy words that suggest usage and function in that geometry can be imbued with artibrary data points, organized into layers and exportable to simple user-friendly graphs.
+OpenGIX is a protocol for working with layered geometry and arbitrary use case specific data. **Open** means all work materials are open source and will always be free to use, modify and redistribute. **GIX** is an intialism of **geometrical** **interpolation** and **transformation**—fancy words that suggest usage and function in that geometry can be imbued with artibrary data points, organized into layers and made exportable to simple user-friendly graphs.
 
 > _GIX is sometimes referred to as **geospacial information transformation** in reference to its most common implementation in mapping and geographical applications._
 
