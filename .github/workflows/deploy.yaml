@@ -1,6 +1,6 @@
 # Workflow for building and deploying the Open Working Group website to GitHub Pages
 #
-name: Deploy openworkinggroup.org to GitHub Pages
+name: Deploy https://opengix.org to GitHub Pages
 
 on:
   # Runs on pushes targeting the `main` branch. Change this to `master` if you're
