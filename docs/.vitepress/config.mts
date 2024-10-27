@@ -12,7 +12,7 @@ export default defineConfig({
 
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
-    logo: "logo-bg.png",
+    logo: "images/logo-bg.png",
     nav: [
       { text: "Schema API", link: "https://opengix.org/schema" },
       { text: "Docs", link: "/getting-started" },
