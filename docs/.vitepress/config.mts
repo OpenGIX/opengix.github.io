@@ -12,6 +12,7 @@ export default defineConfig({
 
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
+    logo: "/public/images/logo-bg.png",
     nav: [
       { text: "Schema API", link: "https://opengix.org/schema" },
       { text: "Docs", link: "/getting-started" },
@@ -41,7 +42,9 @@ export default defineConfig({
 
     footer: {
       copyright:
-        "Copyright © " + new Date().getFullYear() + " Open Working Group",
+        "Copyright © " +
+        new Date().getFullYear() +
+        ' An <a href="https://openworkgroup.org" title="Visit the Open Working Group website.">Open Working Group</a> project.',
     },
   },
 });
