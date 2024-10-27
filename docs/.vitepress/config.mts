@@ -44,7 +44,7 @@ export default defineConfig({
       copyright:
         "Copyright © " +
         new Date().getFullYear() +
-        ' An <a href="https://openworkgroup.org" title="Visit the Open Working Group website.">Open Working Group</a> project.',
+        ' An <a href="https://openworkgroup.org" title="Visit the Open Working Group website." target="_blank">Open Working Group</a> project.',
     },
   },
 });
