@@ -8,7 +8,24 @@ export default defineConfig({
 
   cleanUrls: true,
 
-  head: [["link", { rel: "icon", href: "/favicon.ico" }]],
+  head: [
+    ["link", { rel: "icon", href: "/favicon.ico" }],
+    [
+      "script",
+      {
+        async: "",
+        src: "https://www.googletagmanager.com/gtag/js?id=G-DSE0KPV508",
+      },
+    ],
+    [
+      "script",
+      {},
+      `window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('config', 'G-DSE0KPV508');`,
+    ],
+  ],
 
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config

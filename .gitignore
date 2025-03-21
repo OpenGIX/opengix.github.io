@@ -1,4 +1,8 @@
+# Mac OS
 .DS_Store
+
+# VitePress
+cache
 
 # Logs
 logs
