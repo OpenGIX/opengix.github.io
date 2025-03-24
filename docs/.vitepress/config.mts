@@ -58,10 +58,7 @@ export default defineConfig({
     socialLinks: [{ icon: "github", link: "https://github.com/OpenGIX" }],
 
     footer: {
-      copyright:
-        "Copyright © " +
-        new Date().getFullYear() +
-        ' An <a href="https://openworkgroup.org" title="Visit the Open Working Group website." target="_blank">Open Working Group</a> project.',
+      copyright: `Copyright © All rights reserved. An <a href="https://openworkgroup.org" title="Visit the Open Working Group website." target="_blank">Open Working Group</a> project.`,
     },
   },
 });
